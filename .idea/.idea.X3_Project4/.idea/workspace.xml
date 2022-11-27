@@ -10,7 +10,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://D:/VRTKWaveShooterProject/VRTK Wave Shooter/Assets/Scripts/Gun.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://D:/VRTKWaveShooterProject/VRTK Wave Shooter/Assets/Scripts/Enemy.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -62,7 +61,7 @@
       <workItem from="1669081394445" duration="3350000" />
       <workItem from="1669087252174" duration="1000" />
       <workItem from="1669087393898" duration="138000" />
-      <workItem from="1669087778576" duration="2116000" />
+      <workItem from="1669087778576" duration="2122000" />
     </task>
     <servers />
   </component>
